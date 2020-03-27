@@ -1,2 +1,4 @@
 # Music-player-app-using-flutter
-![](flutter_music/assets/music_flutter.jpeg)
+<img src="flutter_music/assets/flutter_layout1.jpeg" width =50% style="float:left">
+
+<img src="flutter_music/assets/flutter_layout2.jpeg" width =50% style="float:right">
